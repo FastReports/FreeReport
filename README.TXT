@@ -219,3 +219,5 @@ Home pages:http://www.fast-report.com/en/fr23.php
            (english site)
 E-mail:    free@fast-report.com
 
+
+Join the chat at https://gitter.im/FastReports/FreeReport
